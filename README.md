@@ -35,19 +35,6 @@ The project also includes an administrative dashboard where an admin can monitor
 - **HTML, CSS, and JavaScript** – Dashboard interface and animation
 - **Database** – Stores monitoring and system data
 
-## Project Structure
-
-The project contains the components required for:
-
-- Arduino and sensor communication
-- Garbage-level monitoring
-- Database interaction
-- Admin authentication and dashboard management
-- Live dustbin-status visualization
-- SMS notification integration
-
-> The exact structure may vary depending on the implementation and deployment environment.
-
 ## Setup
 
 ### 1. Clone the repository
@@ -81,7 +68,7 @@ For security, do not commit API credentials or other secrets to the repository.
 
 ## Team Members
 
-This project was developed by:
+This semester project was developed by:
 
 - **Parigul Ziad**
 - **Guljan Rashid**
@@ -89,7 +76,7 @@ This project was developed by:
 
 ## Academic Context
 
-This project was completed as a semester project for the **Advanced Database** course. It demonstrates how hardware sensors, a database-backed web application, a real-time dashboard, and an SMS service can work together to create a smart waste-management solution.
+This project was completed as a **semester project for the Advanced Database course**. It demonstrates how hardware sensors, a database-backed web application, an admin dashboard, and an SMS service can work together to create a smart waste-management solution.
 
 ## Future Improvements
 
